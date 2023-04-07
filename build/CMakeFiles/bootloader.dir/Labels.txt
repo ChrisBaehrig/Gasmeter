@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/CMakeFiles/bootloader
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/CMakeFiles/bootloader.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/CMakeFiles/bootloader-complete.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Hobby_Projekte/Eclipse-ESP32-IDF/Workspace/ESP32-Gasmeter/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
